@@ -2,6 +2,6 @@
 
 ## use docker
 
-'''
-$ bin/docker-run.sh
-'''
+```sh
+bin/docker-run.sh
+```
